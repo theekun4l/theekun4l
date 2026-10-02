@@ -1,48 +1,89 @@
-# Hi, I'm Kunal 👋
+# Hi 👋, I'm Kunal Maheshwari
 
-💻 Python Developer | FastAPI | AI/ML
+### 🐍 Python Developer | ⚡ FastAPI | 🤖 AI/ML Enthusiast
 
 I'm a B.Sc. Computer Science student interested in building
-real-world applications using Python and AI.
+real-world applications using Python, APIs and AI.
 
-## 🚀 What I'm Working With
+---
 
-- Python
-- FastAPI
-- Flask
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Git & GitHub
-- AI / ML
+## 🚀 About Me
 
-## 🛠️ Projects
+- 🔭 Currently working on **Python & FastAPI projects**
+- 🌱 Currently learning **Machine Learning, Deep Learning & Generative AI**
+- 💻 Interested in **Backend Development & AI**
+- 🛠️ I like building projects while learning new technologies
+- 📍 Delhi, India
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+### Data & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 🔥 Featured Projects
 
 ### 📄 Pix2PDF
-A web application that converts multiple images into a PDF.
 
-**Tech:** HTML, CSS, JavaScript, FastAPI, Python, img2pdf
+Image → PDF converter built with FastAPI and JavaScript.
+
+**Tech:** Python • FastAPI • HTML • CSS • JavaScript • img2pdf
+
+🔗 [Live Demo](https://pix2pdf-utss.onrender.com)
+
+---
 
 ### 🤖 Aura AI
-An AI assistant built with Python and LLM integration.
 
-**Tech:** Python, Streamlit, APIs, LLMs
+An AI assistant built with Python, Streamlit and LLM APIs.
+
+**Tech:** Python • Streamlit • LLM • APIs
+
+---
 
 ### 📊 E-Commerce Analytics Dashboard
-An interactive dashboard for analysing e-commerce data.
 
-**Tech:** Python, Pandas, NumPy, Matplotlib, Streamlit
+Interactive dashboard for analysing and visualizing e-commerce data.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Streamlit
+
+---
 
 ## 📚 Currently Learning
 
-- FastAPI
-- REST APIs
-- SQL
-- Machine Learning
-- Deep Learning
-- Generative AI
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/theekun4l
+```text
+FastAPI
+   ↓
+REST APIs
+   ↓
+SQL
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
