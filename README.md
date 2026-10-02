@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Kunal 👋
 
-<!--
-**theekun4l/theekun4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | FastAPI | AI/ML
 
-Here are some ideas to get you started:
+I'm a B.Sc. Computer Science student interested in building
+real-world applications using Python and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working With
+
+- Python
+- FastAPI
+- Flask
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+- AI / ML
+
+## 🛠️ Projects
+
+### 📄 Pix2PDF
+A web application that converts multiple images into a PDF.
+
+**Tech:** HTML, CSS, JavaScript, FastAPI, Python, img2pdf
+
+### 🤖 Aura AI
+An AI assistant built with Python and LLM integration.
+
+**Tech:** Python, Streamlit, APIs, LLMs
+
+### 📊 E-Commerce Analytics Dashboard
+An interactive dashboard for analysing e-commerce data.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Streamlit
+
+## 📚 Currently Learning
+
+- FastAPI
+- REST APIs
+- SQL
+- Machine Learning
+- Deep Learning
+- Generative AI
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/theekun4l
